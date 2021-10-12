@@ -1,0 +1,2 @@
+# goingmerry
+primer repositorio
